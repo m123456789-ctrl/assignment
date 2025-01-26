@@ -1,0 +1,27 @@
+tables:
+  - name: countries
+    input_path: './data/customers.csv'
+    output_path: './data_storage/3_gold/customers/'
+    transformations:
+      - type: filter
+        column: status
+        value: active
+      - type: select
+        columns: ['id', 'name', 'status', 'join_date']
+    schema:
+      id: int
+      name: str
+      status: str
+      join_date: datetime
+
+  - name: orders
+    input_path: './data/orders.csv'
+    output_path: './data_storage/3_gold/orders/'
+    transformations:
+      - type: select
+        columns: ['order_id', 'customer_id', 'order_date', 'total_amount']
+    schema:
+      order_id: int
+      customer_id: int
+      order_date: datetime
+      total_amount: float
