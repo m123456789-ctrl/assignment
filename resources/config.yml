@@ -1,7 +1,7 @@
 tables:
   - name: countries
     input_path: '/Workspace/Users/a845678@asb.dtcbtndsie.onmicrosoft.com/assignment/data_storage/1_bronze/src_finance/countries.csv'
-    output_path: '/Workspace/Users/a845678@asb.dtcbtndsie.onmicrosoft.com/assignment/data_storage/2_silver/silver_finance/'
+    output_path: '/Workspace/Users/a845678@asb.dtcbtndsie.onmicrosoft.com/assignment/data_storage/2_silver/silver_finance'
     transformations:
       - type: dropDuplicates
     schema:

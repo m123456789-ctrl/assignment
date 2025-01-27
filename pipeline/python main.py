@@ -44,8 +44,10 @@ def save_as_parquet(df, output_path, table_name):
     print(f"Data for table '{table_name}' saved to {output_file}")
 
 def save_as_csv(df, output_path, file_name, mode="overwrite", header=True):
-    df.write.csv(path=f"{output_path}/{file_name}.csv", mode=mode, header=header)
-    print(f"Data saved as CSV at {output_path}/{file_name}.csv")
+    #df.write.csv(path=f"file://{output_path}/silver_{file_name}.csv", mode=mode, header=header)
+    df.toPandas().to_csv(f"{output_path}/silver_{file_name}.csv")
+    print(f"Data saved as CSV at {output_path}/silver_{file_name}.csv")
+
 
 
 def process_table(table_config, spark):
