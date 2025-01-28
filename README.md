@@ -1,7 +1,10 @@
 # Assignment
 
+To be run in Azure Databricks environment
+
+
 1. To do before running
-Change the path variable based on your path of following files: python_main.py, bronze_layer.ipynb, silver_layer.ipynb, Notebook_with_answers.ipynb, config.yml, tests
+Change the path variable based on your path of following files: python_main.ipynb, python_main.py, bronze_layer.ipynb, silver_layer.ipynb, Notebook_with_answers.ipynb, config.yml, tests
 
 Example of command to find out the current path:
 import os

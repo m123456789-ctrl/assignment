@@ -1310,7 +1310,7 @@
         "lat": "39.572",
         "lng": "-104.8749",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Centennial, CO",
                 "displayNameAlternate": "IKEA Centennial, CO",
                 "address": {
@@ -1322,7 +1322,7 @@
                     "displayAddress": "9800 East IKEA Way, Centennial"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Centennial, CO",
                 "displayNameAlternate": "IKEA Centennial, CO",
                 "address": {
@@ -2769,7 +2769,7 @@
         "lat": "28.483",
         "lng": "-81.4273",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Orlando, FL",
                 "displayNameAlternate": "IKEA Orlando, FL",
                 "address": {
@@ -2781,7 +2781,7 @@
                     "displayAddress": "4092 Eastgate Dr, Orlando"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Orlando, FL",
                 "displayNameAlternate": "IKEA Orlando, FL",
                 "address": {
@@ -3017,7 +3017,7 @@
         "lat": "40.6751",
         "lng": "-74.1697",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Elizabeth, NJ",
                 "displayNameAlternate": "IKEA Elizabeth, NJ",
                 "address": {
@@ -3029,7 +3029,7 @@
                     "displayAddress": "1000 IKEA Drive, Elizabeth"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Elizabeth, NJ",
                 "displayNameAlternate": "IKEA Elizabeth, NJ",
                 "address": {
@@ -3730,7 +3730,7 @@
         "lat": "33.0951",
         "lng": "-96.8216",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Frisco, TX",
                 "displayNameAlternate": "IKEA Frisco, TX",
                 "address": {
@@ -3742,7 +3742,7 @@
                     "displayAddress": "7171 IKEA Drive, Frisco"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Frisco, TX",
                 "displayNameAlternate": "IKEA Frisco, TX",
                 "address": {
@@ -4087,18 +4087,6 @@
         "lat": "26.1215",
         "lng": "-80.3319",
         "locales": {
-            "us/es": {
-                "displayName": "Sunrise, FL",
-                "displayNameAlternate": "IKEA Sunrise, FL",
-                "address": {
-                    "street": "151 NW 136 Ave",
-                    "zipCode": "33325",
-                    "city": "Sunrise",
-                    "timezone": "America/New_York",
-                    "stateProvinceCode": "USFL",
-                    "displayAddress": "151 NW 136 Ave, Sunrise"
-                }
-            },
             "us/en": {
                 "displayName": "Sunrise, FL",
                 "displayNameAlternate": "IKEA Sunrise, FL",
@@ -4109,6 +4097,18 @@
                     "timezone": "America/New_York",
                     "stateProvinceCode": "USFL",
                     "displayAddress": "151 NW 136th Ave, Sunrise"
+                }
+            },
+            "us/es": {
+                "displayName": "Sunrise, FL",
+                "displayNameAlternate": "IKEA Sunrise, FL",
+                "address": {
+                    "street": "151 NW 136 Ave",
+                    "zipCode": "33325",
+                    "city": "Sunrise",
+                    "timezone": "America/New_York",
+                    "stateProvinceCode": "USFL",
+                    "displayAddress": "151 NW 136 Ave, Sunrise"
                 }
             }
         }
@@ -4149,7 +4149,7 @@
         "lat": "33.3406",
         "lng": "-111.9702",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Tempe, AZ",
                 "displayNameAlternate": "IKEA Tempe, AZ",
                 "address": {
@@ -4161,7 +4161,7 @@
                     "displayAddress": "2110 West IKEA Way, Tempe"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Tempe, AZ",
                 "displayNameAlternate": "IKEA Tempe, AZ",
                 "address": {
@@ -7742,7 +7742,7 @@
         "lat": "39.0199",
         "lng": "-94.6906",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Merriam, KS",
                 "displayNameAlternate": "IKEA Merriam, KS",
                 "address": {
@@ -7754,7 +7754,7 @@
                     "displayAddress": "6000 IKEA Way, Merriam"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Merriam, KS",
                 "displayNameAlternate": "IKEA Merriam, KS",
                 "address": {
@@ -7909,7 +7909,7 @@
         "lat": "29.7855",
         "lng": "-95.4723",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Houston, TX",
                 "displayNameAlternate": "IKEA Houston, TX",
                 "address": {
@@ -7921,7 +7921,7 @@
                     "displayAddress": "7810 Katy Freeway, Houston"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Houston, TX",
                 "displayNameAlternate": "IKEA Houston, TX",
                 "address": {
@@ -8334,24 +8334,24 @@
         "lat": "34.1745",
         "lng": "-118.3032",
         "locales": {
-            "us/es": {
-                "displayName": "Burbank, CA",
-                "displayNameAlternate": "IKEA Burbank, CA",
-                "address": {
-                    "street": "600 South IKEA Way",
-                    "zipCode": "91502-1534",
-                    "city": "Burbank",
-                    "timezone": "America/Los_Angeles",
-                    "stateProvinceCode": "USCA",
-                    "displayAddress": "600 South IKEA Way, Burbank"
-                }
-            },
             "us/en": {
                 "displayName": "Burbank, CA",
                 "displayNameAlternate": "IKEA Burbank, CA",
                 "address": {
                     "street": "600 South IKEA Way",
                     "zipCode": "91502",
+                    "city": "Burbank",
+                    "timezone": "America/Los_Angeles",
+                    "stateProvinceCode": "USCA",
+                    "displayAddress": "600 South IKEA Way, Burbank"
+                }
+            },
+            "us/es": {
+                "displayName": "Burbank, CA",
+                "displayNameAlternate": "IKEA Burbank, CA",
+                "address": {
+                    "street": "600 South IKEA Way",
+                    "zipCode": "91502-1534",
                     "city": "Burbank",
                     "timezone": "America/Los_Angeles",
                     "stateProvinceCode": "USCA",
@@ -8575,7 +8575,7 @@
         "lat": "40.9246",
         "lng": "-74.0749",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Paramus, NJ",
                 "displayNameAlternate": "IKEA Paramus, NJ",
                 "address": {
@@ -8587,7 +8587,7 @@
                     "displayAddress": "100 IKEA Drive, Paramus"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Paramus, NJ",
                 "displayNameAlternate": "IKEA Paramus, NJ",
                 "address": {
@@ -8606,24 +8606,24 @@
         "lat": "38.6337",
         "lng": "-90.2449",
         "locales": {
-            "us/es": {
-                "displayName": "St. Louis, MO",
-                "displayNameAlternate": "IKEA St. Louis, MO",
-                "address": {
-                    "street": "1 IKEA Way",
-                    "zipCode": "63110-3881",
-                    "city": "St. Louis",
-                    "timezone": "America/Chicago",
-                    "stateProvinceCode": "USMO",
-                    "displayAddress": "1 IKEA Way, St. Louis"
-                }
-            },
             "us/en": {
                 "displayName": "St. Louis, MO",
                 "displayNameAlternate": "IKEA St. Louis, MO",
                 "address": {
                     "street": "1 IKEA Way",
                     "zipCode": "63108",
+                    "city": "St. Louis",
+                    "timezone": "America/Chicago",
+                    "stateProvinceCode": "USMO",
+                    "displayAddress": "1 IKEA Way, St. Louis"
+                }
+            },
+            "us/es": {
+                "displayName": "St. Louis, MO",
+                "displayNameAlternate": "IKEA St. Louis, MO",
+                "address": {
+                    "street": "1 IKEA Way",
+                    "zipCode": "63110-3881",
                     "city": "St. Louis",
                     "timezone": "America/Chicago",
                     "stateProvinceCode": "USMO",
@@ -8637,7 +8637,7 @@
         "lat": "39.0208",
         "lng": "-76.9289",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "College Park, MD",
                 "displayNameAlternate": "IKEA College Park, MD",
                 "address": {
@@ -8649,7 +8649,7 @@
                     "displayAddress": "10100 Baltimore Avenue, College Park"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "College Park, MD",
                 "displayNameAlternate": "IKEA College Park, MD",
                 "address": {
@@ -8699,7 +8699,7 @@
         "lat": "34.0744",
         "lng": "-117.8801",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Covina, CA",
                 "displayNameAlternate": "IKEA Covina, CA",
                 "address": {
@@ -8711,7 +8711,7 @@
                     "displayAddress": "848 South Barranca Ave, Covina"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Covina, CA",
                 "displayNameAlternate": "IKEA Covina, CA",
                 "address": {
@@ -9653,7 +9653,7 @@
         "lat": "36.0688",
         "lng": "-115.2811",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Las Vegas, NV",
                 "displayNameAlternate": "IKEA Las Vegas, NV",
                 "address": {
@@ -9665,7 +9665,7 @@
                     "displayAddress": "6500 IKEA Way, Las Vegas"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Las Vegas, NV",
                 "displayNameAlternate": "IKEA Las Vegas, NV",
                 "address": {
@@ -10704,7 +10704,7 @@
         "lat": "40.1507",
         "lng": "-82.9671",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Columbus, OH",
                 "displayNameAlternate": "IKEA Columbus, OH",
                 "address": {
@@ -10716,7 +10716,7 @@
                     "displayAddress": "1900 IKEA Way, Columbus"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Columbus, OH",
                 "displayNameAlternate": "IKEA Columbus, OH",
                 "address": {
@@ -11053,7 +11053,7 @@
         "lat": "32.69077384364501",
         "lng": "-97.02271283477994",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Grand Prairie, TX",
                 "displayNameAlternate": "IKEA Grand Prairie, TX",
                 "address": {
@@ -11065,7 +11065,7 @@
                     "displayAddress": "1000 IKEA Way, Grand Prairie"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Grand Prairie, TX",
                 "displayNameAlternate": "IKEA Grand Prairie, TX",
                 "address": {
@@ -11084,7 +11084,7 @@
         "lat": "39.9537",
         "lng": "-86.0059",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Fishers, IN",
                 "displayNameAlternate": "IKEA Fishers, IN",
                 "address": {
@@ -11096,7 +11096,7 @@
                     "displayAddress": "11400 IKEA Way, Fishers"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Fishers, IN",
                 "displayNameAlternate": "IKEA Fishers, IN",
                 "address": {
@@ -11733,7 +11733,7 @@
         "lat": "29.5667",
         "lng": "-98.3381",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Live Oak, TX",
                 "displayNameAlternate": "IKEA Live Oak, TX",
                 "address": {
@@ -11745,7 +11745,7 @@
                     "displayAddress": "1000 IKEA RBFCU Parkway, Live Oak"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Live Oak, TX",
                 "displayNameAlternate": "IKEA Live Oak, TX",
                 "address": {
@@ -12784,7 +12784,7 @@
         "lat": "37.7828",
         "lng": "-122.4088",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "San Francisco, CA",
                 "displayNameAlternate": "IKEA San Francisco, CA",
                 "address": {
@@ -12796,7 +12796,7 @@
                     "displayAddress": "945 Market Street, San Francisco"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "San Francisco, CA",
                 "displayNameAlternate": "IKEA San Francisco, CA",
                 "address": {
@@ -14498,7 +14498,7 @@
         "lat": "40.672",
         "lng": "-74.0115",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "Brooklyn, NY",
                 "displayNameAlternate": "IKEA Brooklyn, NY",
                 "address": {
@@ -14510,7 +14510,7 @@
                     "displayAddress": "1 Beard Street, Brooklyn"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "Brooklyn, NY",
                 "displayNameAlternate": "IKEA Brooklyn, NY",
                 "address": {
@@ -14560,7 +14560,7 @@
         "lat": "32.918",
         "lng": "-96.4265",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "TX, Rockwall",
                 "displayNameAlternate": "IKEA TX, Rockwall",
                 "address": {
@@ -14572,7 +14572,7 @@
                     "displayAddress": "1801 E IH30, Rockwall"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "TX, Rockwall",
                 "displayNameAlternate": "IKEA TX, Rockwall",
                 "address": {
@@ -14742,7 +14742,7 @@
         "lat": "32.8695",
         "lng": "-96.7689",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "TX, Dallas University Park",
                 "displayNameAlternate": "IKEA TX, Dallas University Park",
                 "address": {
@@ -14754,7 +14754,7 @@
                     "displayAddress": "8030 Park Ln Suite 200, Dallas"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "TX, Dallas University Park",
                 "displayNameAlternate": "IKEA TX, Dallas University Park",
                 "address": {
@@ -14773,7 +14773,7 @@
         "lat": "26.2021",
         "lng": "-98.2001",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "TX, Pharr - Town Center",
                 "displayNameAlternate": "IKEA TX, Pharr - Town Center",
                 "address": {
@@ -14785,7 +14785,7 @@
                     "displayAddress": "500 N Jackson Rd., Suite A-2 & B-1, Pharr"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "TX, Pharr - Town Center",
                 "displayNameAlternate": "IKEA TX, Pharr - Town Center",
                 "address": {
@@ -14804,7 +14804,7 @@
         "lat": "43.0686",
         "lng": "-76.1743",
         "locales": {
-            "us/es": {
+            "us/en": {
                 "displayName": "NY, Syracuse",
                 "displayNameAlternate": "IKEA NY, Syracuse",
                 "address": {
@@ -14816,7 +14816,7 @@
                     "displayAddress": "9090 Destiny Usa Dr, Syracuse"
                 }
             },
-            "us/en": {
+            "us/es": {
                 "displayName": "NY, Syracuse",
                 "displayNameAlternate": "IKEA NY, Syracuse",
                 "address": {

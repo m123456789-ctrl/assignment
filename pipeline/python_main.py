@@ -1,4 +1,4 @@
-
+#Run will faill with error since libraries_and_functions does not pass functions
 path = "/Workspace/Users/a845678@asb.dtcbtndsie.onmicrosoft.com/assignment"
 
 #Run libraries_and_functions notebook
