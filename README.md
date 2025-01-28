@@ -1,6 +1,8 @@
 # Assignment
 
-To be run in Azure Databricks environment
+To be run in Azure Databricks environment by:
+a) in your workspace/repository create -> Git folder by using https://github.com/m123456789-ctrl/assignment.git and using GitHub as provider
+b) extract archive and upload it in Databricks environment
 
 
 1. To do before running
